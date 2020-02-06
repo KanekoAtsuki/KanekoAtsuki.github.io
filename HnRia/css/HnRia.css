@@ -220,28 +220,33 @@ footer .pr {
     }
 
 　　p{
-	 font-size: 30px;
+	 font-size: 50px;
     }
 	
 　　th{
-	 font-size: 30px;
+	 font-size: 50px;
     }
 	
 　　td{
-	 font-size: 30px;
+	 font-size: 50px;
     }
 	
 　　h1{
-	 font-size: 60px;
+	 font-size: 100px;
     }
 	
 　　h2{
-	 font-size: 45px;
+	 font-size: 75px;
     }
 	
 　　h4{
-	 font-size: 30px;
+	 font-size: 50px;
     }
+	
+　　li{
+	 font-size: 50px;
+    }	
+
 }
 /*以上タブレット設定*/
 
