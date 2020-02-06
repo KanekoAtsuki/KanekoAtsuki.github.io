@@ -218,6 +218,30 @@ footer .pr {
     .ws,.wl {
         width: 94%;
     }
+
+　　p{
+	 font-size: 20px;
+    }
+	
+　　th{
+	 font-size: 20px;
+    }
+	
+　　td{
+	 font-size: 20px;
+    }
+	
+　　h1{
+	 font-size: 40px;
+    }
+	
+　　h2{
+	 font-size: 30px;
+    }
+	
+　　h4{
+	 font-size: 20px;
+    }
 }
 /*以上タブレット設定*/
 
