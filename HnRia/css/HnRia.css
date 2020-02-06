@@ -194,7 +194,7 @@ footer .pr {
 
 
 /*以下タブレット設定*/
-@media screen and (max-width:767px){
+@media screen and (max-width:991px){
 
     body {
 	    font-size: 12px;
