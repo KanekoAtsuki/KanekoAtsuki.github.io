@@ -236,7 +236,9 @@ footer .pr {
     }
 	
 　　h2{
-	 font-size: 75px;
+	  font-size: 75px;
+	  margin-left: 10%;
+	  margin-right: 10%;
     }
 	
 　　h4{
